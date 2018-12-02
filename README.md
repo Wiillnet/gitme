@@ -1,3 +1,3 @@
 # gitme
 Zum testen von Git Funktionen
-Nachdem es jetzt am Ziel war, folgt der Test
+Nachdem es jetzt am Ziel war, folgt der Test (Das ist eine aenderung im Master)
